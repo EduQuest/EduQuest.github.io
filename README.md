@@ -1,2 +1,2 @@
-# Digital Edu Quest
+# Mailtoid 3.0
 
