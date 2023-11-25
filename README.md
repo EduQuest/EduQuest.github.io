@@ -1,2 +1,2 @@
-# Mailtoid 3.0
+# Maltoid 3.0
 
